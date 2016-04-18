@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331cb4bb-11ff-4a57-9f6c-178037bfee00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntelliJIntroduction.iml" afterPath="$PROJECT_DIR$/IntelliJIntroduction.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
     </list>
     <ignored path="IntelliJIntroduction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,23 +44,23 @@
       <file leaf-file-name="Fahrenheit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
               <folding>
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FahrenheitTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FahrenheitTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="521">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,18 +68,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Celsius.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Celsius.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="486">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,8 +86,8 @@
       <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="215">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,12 +128,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
       </list>
     </option>
   </component>
@@ -684,12 +682,12 @@
       <workItem from="1457728183817" duration="1107000" />
       <workItem from="1457730568542" duration="1036000" />
       <workItem from="1459898702360" duration="57000" />
-      <workItem from="1460996413094" duration="2219000" />
+      <workItem from="1460996413094" duration="2656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4419000" />
+    <option name="totallyTimeSpent" value="4856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1975" y="-4" width="1865" height="1084" extended-state="6" />
@@ -697,7 +695,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -713,7 +711,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -768,10 +766,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -783,10 +781,8 @@
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -817,10 +813,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -832,10 +828,8 @@
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -866,10 +860,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -881,10 +875,8 @@
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -920,50 +912,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="215">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="521">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
           </folding>
         </state>
       </provider>

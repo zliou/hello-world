@@ -43,4 +43,3 @@
             assertEquals(100, convert.getValue(), delta);
         }
     }
-}
