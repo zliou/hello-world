@@ -36,11 +36,9 @@ core
 <target name="build" depends="compile">
 <mkdir dir="${test.build.dir}"/>
 <javac srcdir="${test.src.dir}" destdir="${test.build.dir}" includeantruntime="false">
-<!
---
+<!--
 Make sure these two libraries are included 
---
->
+-->
 <classpath location="lib/junit
 -
 4.11.jar" />
@@ -53,16 +51,12 @@ core
 </javac>
 <echo message="Build done" />
 </target>
-<!
---
+<!--
 Test and build all files  
---
->
-<!
---
+-->
+<!--
 To run this: use "ant" (default) or "ant run" 
---
->
+-->
 <target name="run" depends="build">
 <junit printsummary="on" haltonfailure="yes">
 <classpath>
@@ -75,16 +69,12 @@ To run this: use "ant" (default) or "ant run"
 </batchtest>
 </junit>
 </target>
-<!
---
+<!--
 delete all class files 
---
->
-<!
---
+-->
+<!--
 To run this: use "ant clean" 
---
->
+-->
 <target name="clean">
 <delete>
 <fileset dir="${basedir}" includes="**/*.class" />
