@@ -16,4 +16,17 @@ public class Celsius extends Temperature {
             // TODO: Complete this method
             return "";
         }
+
+    @Override
+    public Temperature toCelsius() {
+        return null;
+    }
+
+    @Override
+    public Temperature toFahrenheit() {
+        return null;
+    }
+
+
+
 }
